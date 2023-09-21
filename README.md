@@ -22,14 +22,15 @@ To run StockTrackerApp on your iOS device or simulator, follow these steps:
 
 2. Build and run the app using Xcode.
 
-Features
+## Features
 Real-time stock price updates.
 Portfolio management.
 User-friendly interface.
-Screenshots
+
+## Screenshots
 Include screenshots or images of your app to give users a visual preview of the application.
 
-Contributing
+## Contributing
 Contributions to StockTrackerApp are welcome! If you would like to contribute, please follow these steps:
 
 Fork the repository on GitHub.
@@ -39,6 +40,6 @@ Make your changes and commit them.
 Push your changes to your fork on GitHub.
 Open a pull request to the original repository.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
    
