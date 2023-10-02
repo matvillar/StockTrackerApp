@@ -10,7 +10,7 @@ I also wanted to create a tool that would be useful for individuals interested i
 
 ### Software Demo
 
-To see a demo of StockTrackerApp in action and get a walkthrough of the code, please watch the following YouTube video:
+To see a demo of StockTrackerApp in action please watch the following YouTube video:
 
 [Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/tIZ8JF4S8q4))
 
@@ -30,7 +30,7 @@ StockTrackerApp was developed using the following tools:
 
 The main programming language used in this project is Swift. Swift is a powerful and intuitive language specifically designed for developing iOS, macOS, watchOS, and tvOS applications. It offers modern features and syntax that make it well-suited for mobile app development.
 
-By using Swift, I was able to leverage the full potential of iOS development, including access to the iOS SDK, UIKit framework, and various iOS-specific libraries and tools. This choice of programming language allowed me to create a responsive and efficient app that provides a smooth user experience.
+By using Swift, I was able to leverage the full potential of iOS development, including access to the iOS SDK, SwiftUI, UIKit framework, and various iOS-specific libraries and tools. This choice of programming language allowed me to create a responsive and efficient app that provides a smooth user experience.
 
 ## Table of Contents
 
