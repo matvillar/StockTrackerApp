@@ -12,7 +12,7 @@ I also wanted to create a tool that would be useful for individuals interested i
 
 To see a demo of StockTrackerApp in action please watch the following YouTube video:
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/tIZ8JF4S8q4))
+[![Software Demo Video](https://img.youtube.com/vi/tIZ8JF4S8q4/0.jpg)](https://www.youtube.com/watch?v=tIZ8JF4S8q4)
 
 ## Development Environment
 
