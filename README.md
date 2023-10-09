@@ -14,6 +14,10 @@ To see a demo of StockTrackerApp in action please watch the following YouTube vi
 
 [![Software Demo Video](https://img.youtube.com/vi/tIZ8JF4S8q4/0.jpg)](https://www.youtube.com/watch?v=tIZ8JF4S8q4)
 
+To see the Final results of this project please watch the following YouTube video:
+
+[![Software Demo Video](https://img.youtube.com/vi/9JMw1i7nZwk/0.jpg)](https://www.youtube.com/watch?v=9JMw1i7nZwk)
+
 ## Development Environment
 
 ### Tools Used
